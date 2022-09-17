@@ -1,0 +1,6 @@
+DON’T use prefix letters.
+Karena Dart dapat memberitahu Anda tipe, cakupan, dan properti lain pada sebuah 
+deklarasi, maka tidak ada alasan untuk menambahkan prefix pada sebuah identifier.
+
+var instance;  // good
+var mInstance;  // bad

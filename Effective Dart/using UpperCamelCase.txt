@@ -1,0 +1,8 @@
+DO name types using UpperCamelCase.
+Class, enum, typedef, dan type parameter harus menggunakan huruf kapital pada huruf 
+pertama dari setiap kata termasuk kata pertama.
+
+abstract class Animal {}
+abstract class Mammal extends Animal {}
+mixin Flyable {}
+class Cat extends Mammal with Walkable {}

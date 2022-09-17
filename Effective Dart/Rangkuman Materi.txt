@@ -1,0 +1,23 @@
+Selamat! Kita telah tiba di modul terakhir. Di sini kita mempelajari tentang code convention dari Dart. Tujuannya, supaya kita tidak hanya bisa menuliskan kode Dart, tetapi juga menuliskan kode yang berkualitas sesuai dengan standar yang ada. Mari kita uraikan materi yang sudah Anda pelajari untuk mempertajam pemahaman.
+
+Coding Convention merupakan panduan yang merekomendasikan gaya pemrograman, praktik, dan metode untuk setiap aspek program yang ditulis dalam bahasa tertentu.
+Alasan code convention sangat penting bagi programmer adalah:
+Sebagian besar waktu dalam mengembangkan aplikasi dihabiskan untuk maintenance.
+Sangat jarang suatu software dipelihara seterusnya oleh penulis aslinya.
+Meningkatkan keterbacaan kode dan memahami kode baru dengan lebih cepat.
+Supaya source code lebih tertata rapi dan bersih.
+Panduan Effective Dart dibagi menjadi empat bagian sesuai dengan fungsinya, antara lain:
+Style guide, mendefinisikan aturan untuk meletakkan dan mengatur kode.
+Documentation guide, panduan terkait dengan bagaimana memberikan komentar atau dokumentasi pada kode.
+Usage guide, panduan terkait bagaimana memanfaatkan fitur bahasa secara terbaik untuk menerapkan perilaku.
+Design guide, panduan mencakup bagaimana mendesain API library yang konsisten dan bisa digunakan.
+Setiap panduan akan diawali dengan lima kata kunci ini, antara lain:
+DO, aturan yang harus selalu diikuti.
+DON’T, aturan yang tidak baik untuk diterapkan.
+PREFER, aturan yang harus diikuti, namun ada keadaan di mana lebih masuk akal untuk melakukan sebaliknya.
+AVOID, aturan yang sebaiknya dihindari atau tidak boleh dilakukan.
+CONSIDER, aturan yang bisa diikuti atau tidak diikuti, tergantung pada keadaan dan preferensi sendiri.
+Banyak sekali aturan dan pedoman terkait Effective Dart, Anda dapat temukan seluruh aturan pada tautan berikut: https://dart.dev/guides/language/effective-dart.
+Sampai modul terakhir ini, semoga Anda telah memahami konsep dasar Dart dengan baik dan siap untuk mengembangkan aplikasi dengan Flutter. Jika belum, jangan ragu untuk membaca dan mengulas kembali modul. Manfaatkan juga forum diskusi untuk menjawab pertanyaan Anda.
+
+Masih ada ujian akhir yang perlu Anda selesaikan agar dinyatakan lulus dan mendapat sertifikat di kelas ini. Good luck!
